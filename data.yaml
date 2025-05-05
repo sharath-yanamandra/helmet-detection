@@ -1,0 +1,7 @@
+path: F:/insighteye/datacenter/helmet
+train: F:/insighteye/datacenter/helmet/train/images
+val: F:/insighteye/datacenter/helmet/valid/images
+test: F:/insighteye/datacenter/helmet/test/images
+
+nc: 2
+names: ['With Helmet', 'Without Helmet']
